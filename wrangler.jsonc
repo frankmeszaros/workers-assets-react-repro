@@ -4,7 +4,7 @@
  */
 {
 	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "restology-ui",
+	"name": "workers-react-assets-repro",
 	"main": "api/index.ts",
 	"compatibility_date": "2025-03-17",
 	"assets": {
